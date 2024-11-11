@@ -30,3 +30,4 @@ Una clase es una estructura que define un tipo de objeto, sus características y
 es el proceso de ocultar los detalles internos de un objeto y mostrar solo la funcionalidad que es relevante para el usuario o para otros objetos.
 16.¿Qué es polimorfismo?
  permite que una clase hija pueda redefinir un método de su clase padre, y que el mismo método funcione de manera diferente en diferentes contextos.
+17.¿Qué es un diagrama de clases?
