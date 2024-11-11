@@ -17,3 +17,4 @@ Dividir un programa en módulos facilitando la organización y reutilización de
 9.¿Cuáles son los cinco tipos de constructores?
 Los cinco tipos son por defecto: privado, de copia, estático y parametrizado
 10.Define polimorfismo estático.?
+Es la vinculación estática o un tipo de polimorfismo que se produce en un tiempo de compilación
