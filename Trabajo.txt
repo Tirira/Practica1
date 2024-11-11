@@ -9,3 +9,4 @@ Agrupación de datos con los métodos que operan con esos datos
 QUE ES UNA EXCEPCION??
 Es producida cuando en una ejecución de un método no termina correctamente
 DEFINE QUE ES UNA SUPERCLASE?
+Es una clase que tiene asociadas subclases
