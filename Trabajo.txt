@@ -40,3 +40,5 @@ es el proceso de ocultar los detalles internos de un objeto y mostrar solo la fu
  son útiles para almacenar información que es común a todos los objetos de una clase, en lugar de almacenar información específica de cada objeto.
 21.¿Cuál es la diferencia entre una clase abstracta y una interfaz en POO?
 Una clase abstracta permite métodos con implementación, mientras que una interfaz solo declara métodos sin implementar.
+22¿Cómo se implementa la sobrecarga de métodos y cuál es su utilidad?
+La sobrecarga se logra definiendo múltiples métodos con el mismo nombre, pero con diferentes parámetros; permite flexibilidad en el uso del método.
