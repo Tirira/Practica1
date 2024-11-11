@@ -16,3 +16,4 @@ Es la asignación de un tipo de dato a una palabra con el objetivo se almacenarl
 Dividir un programa en módulos facilitando la organización y reutilización del código
 9.¿Cuáles son los cinco tipos de constructores?
 Los cinco tipos son por defecto: privado, de copia, estático y parametrizado
+10.Define polimorfismo estático.?
