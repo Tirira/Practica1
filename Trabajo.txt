@@ -28,3 +28,4 @@ son variables que pertenecen a una clase y representan las características o pr
 Una clase es una estructura que define un tipo de objeto, sus características y lo que puede hacer. Los objetos son instancias de una clase.
 15.¿Qué es la abstracción?
 es el proceso de ocultar los detalles internos de un objeto y mostrar solo la funcionalidad que es relevante para el usuario o para otros objetos.
+16.¿Qué es polimorfismo?
