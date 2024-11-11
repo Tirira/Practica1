@@ -42,3 +42,5 @@ es el proceso de ocultar los detalles internos de un objeto y mostrar solo la fu
 Una clase abstracta permite métodos con implementación, mientras que una interfaz solo declara métodos sin implementar.
 22¿Cómo se implementa la sobrecarga de métodos y cuál es su utilidad?
 La sobrecarga se logra definiendo múltiples métodos con el mismo nombre, pero con diferentes parámetros; permite flexibilidad en el uso del método.
+¿Qué es el principio de responsabilidad única en POO y por qué es importante?
+Cada clase debe tener una única responsabilidad; facilita el mantenimiento y la escalabilidad del sistema.
