@@ -18,5 +18,6 @@ Dividir un programa en módulos facilitando la organización y reutilización de
 Los cinco tipos son por defecto: privado, de copia, estático y parametrizado
 10.Define polimorfismo estático.?
 Es la vinculación estática o un tipo de polimorfismo que se produce en un tiempo de compilación
-10.¿Qué es un objeto?
- es una instancia de una clase, que es una plantilla o un modelo que define un conjunto de atributos 
+11.¿Qué es un objeto?
+ es una instancia de una clase, que es una plantilla o un modelo que define un conjunto de atributos
+12.¿Qué es un atributo?
