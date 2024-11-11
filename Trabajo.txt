@@ -38,3 +38,5 @@ es el proceso de ocultar los detalles internos de un objeto y mostrar solo la fu
  es una ocurrencia específica de una clase, creada y almacenada en memoria, con valores asignados a sus atributos y con la capacidad de ejecutar sus métodos.
 20.¿Qué es una variable de clase?
  son útiles para almacenar información que es común a todos los objetos de una clase, en lugar de almacenar información específica de cada objeto.
+21.¿Cuál es la diferencia entre una clase abstracta y una interfaz en POO?
+Una clase abstracta permite métodos con implementación, mientras que una interfaz solo declara métodos sin implementar.
