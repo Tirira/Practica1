@@ -37,3 +37,4 @@ es el proceso de ocultar los detalles internos de un objeto y mostrar solo la fu
 19.¿Qué es un objeto instanciado?
  es una ocurrencia específica de una clase, creada y almacenada en memoria, con valores asignados a sus atributos y con la capacidad de ejecutar sus métodos.
 20.¿Qué es una variable de clase?
+ son útiles para almacenar información que es común a todos los objetos de una clase, en lugar de almacenar información específica de cada objeto.
