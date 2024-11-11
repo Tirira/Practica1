@@ -22,3 +22,4 @@ Es la vinculación estática o un tipo de polimorfismo que se produce en un tiem
  es una instancia de una clase, que es una plantilla o un modelo que define un conjunto de atributos
 12.¿Qué es un atributo?
 son variables que pertenecen a una clase y representan las características o propiedades que describen el estado de un objeto.
+13.¿Qué es un método?
