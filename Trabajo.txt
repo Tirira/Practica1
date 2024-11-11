@@ -31,4 +31,5 @@ es el proceso de ocultar los detalles internos de un objeto y mostrar solo la fu
 16.¿Qué es polimorfismo?
  permite que una clase hija pueda redefinir un método de su clase padre, y que el mismo método funcione de manera diferente en diferentes contextos.
 17.¿Qué es un diagrama de clases?
- se utiliza para representar las clases, sus atributos, métodos y las relaciones entre ellas 
+ se utiliza para representar las clases, sus atributos, métodos y las relaciones entre ellas
+18.¿Qué es un diagrama de objetos? 
