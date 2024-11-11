@@ -1,14 +1,15 @@
-QUE PIENSAS SOBRE POO?
+1.QUE PIENSAS SOBRE POO?
 es una forma de programacion muy practica 
-COMO INFLUYE?
+2.COMO INFLUYE?
 en el area de la programacion ayuda muchisimo a resolver problemas 
-QUE ES UNA HERENCIA?
+3.QUE ES UNA HERENCIA?
 Es un proceso que una clase herede atributos a otra clase
-QUE ES LA ENCAPSULACION?
+4.QUE ES LA ENCAPSULACION?
 Agrupación de datos con los métodos que operan con esos datos
-QUE ES UNA EXCEPCION??
+5.QUE ES UNA EXCEPCION??
 Es producida cuando en una ejecución de un método no termina correctamente
-DEFINE QUE ES UNA SUPERCLASE?
+6.DEFINE QUE ES UNA SUPERCLASE?
 Es una clase que tiene asociadas subclases
-Explica qué es una variable??
+7.Explica qué es una variable??
 Es la asignación de un tipo de dato a una palabra con el objetivo se almacenarla dentro de la memoria
+8.Define qué es la interface in POO.?
