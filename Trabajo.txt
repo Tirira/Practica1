@@ -14,3 +14,4 @@ Es una clase que tiene asociadas subclases
 Es la asignación de un tipo de dato a una palabra con el objetivo se almacenarla dentro de la memoria
 8.Define qué es la interface in POO.?
 Dividir un programa en módulos facilitando la organización y reutilización del código
+9.¿Cuáles son los cinco tipos de constructores?
