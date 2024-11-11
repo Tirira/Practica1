@@ -7,3 +7,4 @@ Es un proceso que una clase herede atributos a otra clase
 QUE ES LA ENCAPSULACION?
 Agrupación de datos con los métodos que operan con esos datos
 QUE ES UNA EXCEPCION??
+Es producida cuando en una ejecución de un método no termina correctamente
