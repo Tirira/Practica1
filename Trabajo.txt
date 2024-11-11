@@ -35,3 +35,4 @@ es el proceso de ocultar los detalles internos de un objeto y mostrar solo la fu
 18.¿Qué es un diagrama de objetos? 
  es una herramienta útil para mostrar las instancias de clases en un sistema orientado a objetos en un momento específico de la ejecución. 
 19.¿Qué es un objeto instanciado?
+ es una ocurrencia específica de una clase, creada y almacenada en memoria, con valores asignados a sus atributos y con la capacidad de ejecutar sus métodos.
