@@ -25,3 +25,4 @@ son variables que pertenecen a una clase y representan las características o pr
 13.¿Qué es un método?
  es una función que está definida dentro de una clase y que opera sobre los datos de los objetos de esa clase
 14.¿Qué es una clase?
+Una clase es una estructura que define un tipo de objeto, sus características y lo que puede hacer. Los objetos son instancias de una clase.
