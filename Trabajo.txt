@@ -34,3 +34,4 @@ es el proceso de ocultar los detalles internos de un objeto y mostrar solo la fu
  se utiliza para representar las clases, sus atributos, métodos y las relaciones entre ellas
 18.¿Qué es un diagrama de objetos? 
  es una herramienta útil para mostrar las instancias de clases en un sistema orientado a objetos en un momento específico de la ejecución. 
+19.¿Qué es un objeto instanciado?
