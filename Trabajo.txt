@@ -23,3 +23,4 @@ Es la vinculación estática o un tipo de polimorfismo que se produce en un tiem
 12.¿Qué es un atributo?
 son variables que pertenecen a una clase y representan las características o propiedades que describen el estado de un objeto.
 13.¿Qué es un método?
+ es una función que está definida dentro de una clase y que opera sobre los datos de los objetos de esa clase
