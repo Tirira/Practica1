@@ -4,3 +4,4 @@ COMO INFLUYE?
 en el area de la programacion ayuda muchisimo a resolver problemas 
 QUE ES UNA HERENCIA?
 Es un proceso que una clase herede atributos a otra clase
+QUE ES LA ENCAPSULACION?
