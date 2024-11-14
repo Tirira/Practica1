@@ -18,28 +18,3 @@ Dividir un programa en módulos facilitando la organización y reutilización de
 Los cinco tipos son por defecto: privado, de copia, estático y parametrizado
 10.Define polimorfismo estático.?
 Es la vinculación estática o un tipo de polimorfismo que se produce en un tiempo de compilación
-<<<<<<< HEAD
-=======
-11.¿Qué es un objeto?
- es una instancia de una clase, que es una plantilla o un modelo que define un conjunto de atributos
-12.¿Qué es un atributo?
-son variables que pertenecen a una clase y representan las características o propiedades que describen el estado de un objeto.
-13.¿Qué es un método?
- es una función que está definida dentro de una clase y que opera sobre los datos de los objetos de esa clase
-14.¿Qué es una clase?
-Una clase es una estructura que define un tipo de objeto, sus características y lo que puede hacer. Los objetos son instancias de una clase.
-15.¿Qué es la abstracción?
-es el proceso de ocultar los detalles internos de un objeto y mostrar solo la funcionalidad que es relevante para el usuario o para otros objetos.
-16.¿Qué es polimorfismo?
- permite que una clase hija pueda redefinir un método de su clase padre, y que el mismo método funcione de manera diferente en diferentes contextos.
-17.¿Qué es un diagrama de clases?
- se utiliza para representar las clases, sus atributos, métodos y las relaciones entre ellas
-18.¿Qué es un diagrama de objetos? 
- es una herramienta útil para mostrar las instancias de clases en un sistema orientado a objetos en un momento específico de la ejecución. 
-19.¿Qué es un objeto instanciado?
- es una ocurrencia específica de una clase, creada y almacenada en memoria, con valores asignados a sus atributos y con la capacidad de ejecutar sus métodos.
-20.¿Qué es una variable de clase?
- son útiles para almacenar información que es común a todos los objetos de una clase, en lugar de almacenar información específica de cada objeto.
-21.¿Cuál es la diferencia entre una clase abstracta y una interfaz en POO?
-Una clase abstracta permite métodos con implementación, mientras que una interfaz solo declara métodos sin implementar.
->>>>>>> 4285fdd4ae29ad2242300c4ea2c4bf727eaf3ec2
