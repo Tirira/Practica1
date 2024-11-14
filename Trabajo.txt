@@ -1,3 +1,4 @@
+
 ~1. ¿Qué piensas sobre POO?
 ~Es una forma de programación muy práctica.
 ~2. ¿Cómo influye?
