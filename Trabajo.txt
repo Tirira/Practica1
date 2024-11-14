@@ -1,1 +1,21 @@
 
+~1. ¿Qué piensas sobre POO?
+~Es una forma de programación muy práctica.
+~2. ¿Cómo influye?
+~En el área de la programación ayuda muchísimo a resolver problemas.
+~3. ¿Qué es una herencia?
+~Es un proceso que una clase herede atributos a otra clase.
+~4. ¿Qué es la encapsulación?
+~Agrupación de datos con los métodos que operan con esos datos.
+~5. ¿Qué es una excepción?
+~Es producida cuando en una ejecución de un método no termina correctamente.
+~6. Define qué es una superclase.
+~Es una clase que tiene asociadas subclases.
+~7. Explica qué es una variable.
+~Es la asignación de un tipo de dato a una palabra con el objetivo de almacenarla dentro de la memoria.
+~8. Define qué es la interfaz en POO.
+~Dividir un programa en módulos facilitando la organización y reutilización del código.
+~9. ¿Cuáles son los cinco tipos de constructores?
+Los cinco tipos son: por defecto, privado, de copia, estático y parametrizado.
+~10. Define polimorfismo estático.
+Es la vinculación estática o un tipo de polimorfismo que se produce en un tiempo de compilación.
